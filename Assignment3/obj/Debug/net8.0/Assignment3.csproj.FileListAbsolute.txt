@@ -1,0 +1,14 @@
+D:\MacEwan\Azure\Assignment3\Assignment3\bin\Debug\net8.0\Assignment3.exe
+D:\MacEwan\Azure\Assignment3\Assignment3\bin\Debug\net8.0\Assignment3.deps.json
+D:\MacEwan\Azure\Assignment3\Assignment3\bin\Debug\net8.0\Assignment3.runtimeconfig.json
+D:\MacEwan\Azure\Assignment3\Assignment3\bin\Debug\net8.0\Assignment3.dll
+D:\MacEwan\Azure\Assignment3\Assignment3\bin\Debug\net8.0\Assignment3.pdb
+D:\MacEwan\Azure\Assignment3\Assignment3\obj\Debug\net8.0\Assignment3.GeneratedMSBuildEditorConfig.editorconfig
+D:\MacEwan\Azure\Assignment3\Assignment3\obj\Debug\net8.0\Assignment3.AssemblyInfoInputs.cache
+D:\MacEwan\Azure\Assignment3\Assignment3\obj\Debug\net8.0\Assignment3.AssemblyInfo.cs
+D:\MacEwan\Azure\Assignment3\Assignment3\obj\Debug\net8.0\Assignment3.csproj.CoreCompileInputs.cache
+D:\MacEwan\Azure\Assignment3\Assignment3\obj\Debug\net8.0\Assignment3.dll
+D:\MacEwan\Azure\Assignment3\Assignment3\obj\Debug\net8.0\refint\Assignment3.dll
+D:\MacEwan\Azure\Assignment3\Assignment3\obj\Debug\net8.0\Assignment3.pdb
+D:\MacEwan\Azure\Assignment3\Assignment3\obj\Debug\net8.0\Assignment3.genruntimeconfig.cache
+D:\MacEwan\Azure\Assignment3\Assignment3\obj\Debug\net8.0\ref\Assignment3.dll
